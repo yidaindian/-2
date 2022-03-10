@@ -1,0 +1,16 @@
+{
+  "name": "ceshi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "xdd": "lessc css/index.less css/index.min.css -x"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "less": "^4.1.2",
+    "vue": "^3.2.31"
+  }
+}
